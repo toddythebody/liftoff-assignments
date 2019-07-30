@@ -11,7 +11,7 @@ A web app that features locations around lake of the ozarks.  You can see locati
 ### Features
 User, posts, comments, map, favoriting, location search, user search.
 ### Technologies
-Java, Spring, Html, Css, and maybe javascript
+Java, Spring, Html, Css, MySql, and maybe javascript
 
 ### What I'll Have to Learn
 I need to learn more about javascript and the map portion.
