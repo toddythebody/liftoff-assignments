@@ -7,11 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A web app that features locations around lake of the ozarks.  You can see locations others have posted, leave comments, and post comments of your own.  There will be a map to show distance on the water.
 ### Features
-Include Features here
+User, posts, comments, map, favoriting, location search, user search.
 ### Technologies
-Include Technologies here
+Java, Spring, Html, Css, and maybe javascript
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I need to learn more about javascript and the map portion.
