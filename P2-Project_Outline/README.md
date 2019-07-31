@@ -7,14 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-A web app that features locations around lake of the ozarks.  You can see locations others have posted, leave comments, and post comments of your own.  There will be a map to show distance on the water.
+Fantasy football.  Users participate in a draft, manage their team, and keep score.
 ### Features
-User, posts, comments, map, favoriting, location search, user search.
+User, roster profile, point system, player stat data collection.
 ### Technologies
 Java, Spring, Html, Css, MySql, and maybe javascript
 
 ### What I'll Have to Learn
-I need to learn more about javascript and the map portion.
+I need to learn more about javascript and data collection.
 
 ### Trello
 https://trello.com/b/g0rsRxsY/project
